@@ -1,0 +1,98 @@
+body{
+    border-radius: 10%;
+    border: 24px, solid;
+}
+.header{
+    background: rgb(38, 41, 46);
+    color:#fff;
+    width: 100%;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    text-align: right;
+}
+/* .header img{
+    margin-top: 30px;
+    float: right;
+    width: 150px;
+    /* height: 50px; */
+} */
+.img1{
+    margin-top: 30px;
+    margin-right: 150px;
+    width: 250;
+    
+    /* height: 50px; */
+}
+.img2{
+    width: 250;
+    /* height: 50px; */
+    margin-top: 30px;
+    float: right;
+}
+.heromain{
+    background: rgb(232, 112, 136);
+    color: white;
+    /* height: 325px; */
+    padding: 30px;
+}
+.heropicture{
+    /* float: right; */
+}
+.heromain img{
+    width: 400px;
+    /* height: 250px; */
+    display: block;
+    float: right;
+}
+.mainbar{
+    /* height: 250px; */
+    background: rgb(245, 245, 247);
+    padding: 40px;
+}
+.mainbar h4{
+    /* margin-left: 20px; */
+}
+.titles{
+    width: 100%;
+}
+.h42{
+    float: right;
+    margin-right: 87px;
+}
+.products{
+    /* height: 250px; */
+}
+.products img{
+    width: 100%;
+    /* height: 100px; */
+}
+.footer{
+    background: rgb(38, 41, 46);
+    color: #fff;
+}
+.footer img{
+    float: right;
+}
+
+@media (min-width: 768px) (max-width: 768px){
+    
+    .img1{
+        margin-right: 87px;
+    }
+    
+}
+
+@media (min-width: 800px) and (max-width: 900px) {
+    .heropicture{
+        float: right;
+    }
+    
+}
+​
+@media (min-width: 992px) {
+    
+}
+​
+@media (min-width: 1200px) {
+    
+}

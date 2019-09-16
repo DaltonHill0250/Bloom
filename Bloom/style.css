@@ -1,0 +1,191 @@
+body{
+    /* width: 100%; */
+    background-image: url("../media/program.jpg");
+}
+.header{
+    background: black;
+    width: 100%;
+}
+.header ul{
+    list-style: none;
+    margin-top: 35px;
+    float: right;
+}
+.header li{
+    display: inline; 
+    text-decoration: none;
+    padding: 10px;
+    color: grey;
+    font-size: 18px;
+}
+.header a{
+    color: grey;
+}
+.hero img{
+    width: 200px;
+    height: 250px;
+    margin-top: 25px;
+    border: black solid 2px;
+    border-radius: 215px;
+    margin-left: 475px;
+}
+.about {
+    width: 100%;
+    height: 200px;
+    color: #000;
+    /* margin-left: 280px; */
+    background: #534B62;
+}
+.about a{
+    text-decoration: none;
+    border: 5px;
+    background-color: rgb(19, 19, 75);
+    border-radius: 10%;
+    padding: 7px;
+
+}
+.bio{
+    text-align: center;
+}
+.projectsh1{
+    background: black;
+    width: 100%;
+}
+.projects{
+    background: black;
+    width: 100%;
+    /* float: right; */
+    /* margin-left: 88px; */
+}
+.projects img{
+    /* margin: 0px auto; */
+    width: 200px;
+    height: 250px;
+    border: black solid 4px;
+    border-radius: 5px;
+    /* padding-left: 30px; */
+    transition: transform .2s;
+    text-align: center;
+}
+.projects img:hover{
+    transform: scale(1.5);
+}
+.cup{
+    margin-left: 50px;
+}
+.detroix{
+    /* background:  black; */
+    /* width: 200px; */
+    height: auto;
+    transition: all 2s ease-in-out;
+    /* display: none; */
+    text-align: center;
+}
+.detroix p{
+    visibility: hidden;
+}
+.goodbye1{
+    /* background: grey; */
+    width: 200px;
+    height: auto;
+    visibility: visible;
+    text-align: center;
+}
+.goodbye1 p{
+    visibility: visible;
+}
+.goodbye1 a{
+    text-decoration: none;
+    border: 5px;
+    background-color: rgb(19, 19, 75);
+    border-radius: 10%;
+    padding: 7px;
+}
+.venedor{
+    /* background:  black; */
+    /* width: 200px; */
+    height: auto;
+    transition: all 2s ease-in-out;
+    /* display: none; */
+    text-align: center;
+}
+.venedor p{
+    visibility: hidden;
+}
+.goodbye2{
+    /* background: grey; */
+    width: 200px;
+    height: auto;
+    visibility: visible;
+    text-align: center;
+}
+.goodbye2 p{
+    visibility: visible;
+}
+.goodbye2 a{
+    text-decoration: none;
+    border: 5px;
+    background-color: rgb(19, 19, 75);
+    border-radius: 10%;
+    padding: 7px;
+}
+.bloom{
+    /* background:  black; */
+    /* width: 200px; */
+    height: auto;
+    transition: all 2s ease-in-out;
+    /* display: none; */
+    text-align: center;
+}
+.bloom p{
+    visibility: hidden;
+}
+.goodbye3{
+    /* background: grey; */
+    width: 200px;
+    height: auto;
+    visibility: visible;
+    text-align: center;
+}
+.goodbye3 p{
+    visibility: visible;
+}
+.goodbye3 a{
+    text-decoration: none;
+    border: 5px;
+    background-color: rgb(19, 19, 75);
+    border-radius: 10%;
+    padding: 7px;
+}
+.iopage{
+    /* background:  black; */
+    /* width: 200px; */
+    height: auto;
+    transition: all 2s ease-in-out;
+    /* display: none; */
+    text-align: center;
+}
+.iopage p{
+    visibility: hidden;
+}
+.goodbye4{
+    /* background: grey; */
+    width: 200px;
+    height: auto;
+    visibility: visible;
+    text-align: center;
+}
+.goodbye4 p{
+    visibility: visible;
+}
+.goodbye4 a{
+    text-decoration: none;
+    border: 5px;
+    background-color: rgb(19, 19, 75);
+    border-radius: 10%;
+    padding: 7px;
+}
+.carousel img{
+    width: 300px;
+    height: 200px;
+}
